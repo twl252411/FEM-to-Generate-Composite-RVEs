@@ -7,6 +7,8 @@ Here we present a multi-step dynamic FE compression method to generate RVEs of c
 3. The periodic inclusions are subsequently compressed into the region of the targeted RVE by utilizing a dynamic FE analysis with periodic boundary conditions.
 4. Postprocessing procedures are executed to ascertain the positions and orientations of the compressed inclusions, facilitating generation of the CAD-format RVE of composites.
 
+![githubMethod](https://github.com/twl252411/FEM-to-Generate-Composite-RVEs/blob/main/Figure1.jpg)
+
 ## Implementation
 
 - The matlab codes in **RSA_Codes_2D** are used for generating circumcenters and predefined orientation angles of inclusions.
