@@ -1,0 +1,4 @@
+for(ii=1;ii<=490;ii+2)
+{coldesig rng:=[Book1]Sheet1!wcol(ii) desig:=X};
+for(ii=2;ii<=490;ii+2)
+{coldesig rng:=[Book1]Sheet1!wcol(ii) desig:=Y};
