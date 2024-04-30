@@ -21,4 +21,4 @@ Here we present a multi-step dynamic FE compression method to generate RVEs of c
 
 If the codes are helpful, plese cite the paper:
 
-[1] Wenlong Tiana, Yajun Zhanga, Chaosong Peia, Jian Gea, Xujiang Chaoa, Lehua Qi, FE modeling to generate composite RVEs with high volume fractions and various shapes of inclusions, submitted to International Journal of Solids and Structures, 2024.
+[1] Wenlong Tian, Yajun Zhang, Chaosong Pei, Jian Ge, Xujiang Chao, Lehua Qi, FE modeling to generate composite RVEs with high volume fractions and various shapes of inclusions, submitted to International Journal of Solids and Structures, 2024.
